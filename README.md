@@ -47,7 +47,7 @@ The full write-up with all charts is in [📄 Full Project Report (PDF)](./Count
 ## How to run
 ```bash
 pip install pandas numpy scikit-learn seaborn plotly scipy jupyter
-jupyter notebook Cluster.ipynb
+jupyter notebook country_clustering.ipynb
 ```
 
 # Author
